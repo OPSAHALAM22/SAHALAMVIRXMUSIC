@@ -1,7 +1,7 @@
 ### Best Smart Voice Chat Music Bot For Telegram Groups ...
 
 
-<p align="center"><a href="https://t.me/Itz_Venom_xD"><img src="https://telegra.ph/file/de138de8fd880becb9cf1.jpg"></a></p>
+<p align="center"><a href="https://t.me/OPSAHALAM88"><img src="https://telegra.ph/file/b69ed5a82792d310b841e.jpg"></a></p>
 
 
 
@@ -23,6 +23,10 @@
 
 
 
-### Copy Pasters You Can Copy This But Must Give Credits ...
+### Credits = [ABHIMANYU SINGH RANAWAT](https://t.me/Itz_Venom_xD) ...
 
 #### Main Developer = [Abhimanyu Singh Ranawat](https://t.me/Itz_Venom_xD)
+
+#### 2nd Developer =  [Sah Alam](https://t.me/OPSAHALAM88)
+
+#### 3rd Developer =  [Vir](https://t.me/ITZVIR99)
